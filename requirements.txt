@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+=======
+necessary environment
+
+>>>>>>> c747bdf55fee9027f4c90099f59e109503401f2b
+pyTelegramBotAPI==3.5.2
